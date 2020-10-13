@@ -1,0 +1,19 @@
+/*selektor znacznika*/
+h2{
+    color: #ff0000
+}
+/*selektor id*/
+#main-section{
+    background-color: #faebd6;
+}
+
+/*selektor klasy*/
+.first-paragraph{
+    color: #a42423;
+}
+
+.second-paragraph{
+    color: #00008f ;
+}
+
+ 
